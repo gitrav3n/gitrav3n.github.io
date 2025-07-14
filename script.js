@@ -1,5 +1,5 @@
 const lines = [
-  "> alias: rav3n_",
+  "> alias: rav3n",
   "> role: Cybersecurity Analyst",
   "> status: always watching 👁️",
 ];
