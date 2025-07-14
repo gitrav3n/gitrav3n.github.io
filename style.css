@@ -35,6 +35,30 @@ h4 {
   color: #8b949e;
 }
 
+.terminal {
+  font-family: 'Fira Code', monospace;
+  color: #00ff9c;
+  font-size: 1.3rem;
+  background-color: #0d1117;
+  padding: 1rem;
+  border-left: 3px solid #00ff9c;
+  margin-bottom: 2rem;
+  white-space: pre;
+  height: 80px;
+  overflow: hidden;
+}
+
+.typed-text::after {
+  content: "|";
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+
 .highlight {
   color: #d2a8ff;
 }
