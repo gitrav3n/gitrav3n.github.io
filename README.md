@@ -2,7 +2,7 @@
 
   <h4>🧛‍♀Alias:  rav3n</h4>
 
-⚔️ Cybersecurity isn’t a career, it’s a battlefield!
+⚔️ Cybersecurity isn’t a career, it’s a battlefield! 
 <h2>👨‍💻CyberSec. Projects:</h2>  
 
   - [Active Directory HomeLab](pastethelinkhereeeeeLATERRR///https://github.com/joshmadakor1/Algorithms-Practice///pastethelinkhere)
